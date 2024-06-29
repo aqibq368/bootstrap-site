@@ -16,3 +16,7 @@ section {
 .section-spacing {
 	margin-bottom: 40px;
 }
+.top{
+	position: fixed;
+
+}
